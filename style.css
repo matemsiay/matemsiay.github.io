@@ -1,0 +1,42 @@
+body
+{
+	color:black;
+	background-color:white;
+	background-image: url("background2.jpg");
+	background-repeat:no-repeat;
+}
+
+h1
+{
+	color: blue;
+	margin: 40px;
+	text-align:center;
+}
+
+h2
+{
+	color: red;
+	margin-left: 100px;
+}
+
+h3
+{
+	margin-left: 75px;
+}
+
+p
+{
+	margin-left: 50px;
+}
+
+ol
+{
+	margin-left: 25px;
+}
+
+aside
+{
+	float: right;
+	height: 150px;
+	margin-right: 25px;
+}
